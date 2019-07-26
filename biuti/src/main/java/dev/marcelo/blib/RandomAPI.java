@@ -7,6 +7,6 @@ public class RandomAPI {
 
   @Override
   public String toString() {
-    return "RandomAPI{v1}";
+    return "RandomAPI{v1-mod}";
   }
 }
